@@ -1,0 +1,4 @@
+{
+  "port": 5000,
+  "URLmongo": "mongodb+srv://Olo:<password>!@cluster0.cc0d9bb.mongodb.net/?retryWrites=true&w=majority"
+}
